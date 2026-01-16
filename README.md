@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pixel&color=0:1a1a2e,100:16213e&height=180&text=Pixel%20Aesthetic%20Only%20🕹️&fontSize=28&fontColor=f5f5f5" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi,%20I'm%20a%20Designer%20Who%20Codes%20👾&fontSize=30&fontColor=ffffff" />
-</p>
+  <img src="./pixel-banner.png" alt="Pixel Banner" />
+</p>>
 
 ---
 
