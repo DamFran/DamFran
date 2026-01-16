@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixel-banner.png" alt="Pixel Banner" />
+  <img src="./pixel-banners.png" alt="Pixel Banner" />
 </p>>
 
 ---
