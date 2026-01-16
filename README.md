@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[PASTE_LINK_DI_SINI](https://capsule-render.vercel.app/api?type=pixel&color=0:1a1a2e,100:16213e&height=180&text=Pixel%20Aesthetic%20Only%20🕹️&fontSize=28&fontColor=f5f5f5
+  <img src="(https://capsule-render.vercel.app/api?type=pixel&color=0:1a1a2e,100:16213e&height=180&text=Pixel%20Aesthetic%20Only%20🕹️&fontSize=28&fontColor=f5f5f5
 )" />
 </p>
 <p align="center">
