@@ -19,7 +19,7 @@
     <td width="60%" valign="top">
       <p>I am a passionate <b>Junior Web Developer</b> focused on building clean, responsive, and highly functional web applications. I love turning complex logic into simple, beautiful, and intuitive designs.</p>
       <p>Currently, I am diving deep into the <b>Laravel ecosystem</b> and advanced backend development to build robust APIs and scalable applications.</p>
-      <p>⚡ <i>Fun fact: I love optimizing user interfaces and making sure every pixel has a purpose!</i></p>
+      <p><i>Fun fact: I love cat. (No shi, Sherlock)</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media.tenor.com/OaMOfRNWg18AAAAi/stick-out-tongue-feral.gif" width="170" style="border-radius: 12px;" alt="Precure Wave" />
