@@ -113,11 +113,13 @@ I'm always open to discussing new projects, collaboration opportunities, or entr
   <a href="https://instagram.com/2ndaam_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@2ndaam_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://discord.com/users/335647890099929088" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-North-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
- <a href="https://discord.com/users/335647890099929088" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+ 
 ---
 
 <p align="center">
