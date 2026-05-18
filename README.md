@@ -41,7 +41,7 @@ const developer = {
 
 ## ⚡ Tech Stack & Tools
 
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td valign="top" width="33%">
       <h4>🌐 Frontend</h4>
@@ -99,22 +99,25 @@ A modern digital platform built to bridge the gap between citizens and local gov
 I'm always open to discussing new projects, collaboration opportunities, or entry-level web developer roles!
 
 <p align="center">
-  <!-- Email link with your pre-populated email -->
+ 
   <a href="mailto:adamzhafran999@gmail.com">
     <img src="https://img.shields.io/badge/Email-adamzhafran999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <!-- LinkedIn link - replace URL if your LinkedIn profile URL is different -->
+
   <a href="https://linkedin.com/in/adamzhafran">
     <img src="https://img.shields.io/badge/LinkedIn-Adam%20Zhafran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <!-- Instagram link - replace URL if your Instagram username is different -->
+  
   <a href="https://instagram.com/2ndaam_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@2ndaam_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
+ <a href="https://discord.com/users/335647890099929088" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 ---
 
 <p align="center">
