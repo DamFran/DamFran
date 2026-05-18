@@ -105,7 +105,7 @@ I'm always open to discussing new projects, collaboration opportunities, or entr
   </a>
   
   <!-- LinkedIn link - replace URL if your LinkedIn profile URL is different -->
-  <a href="[https://linkedin.com/in/adamzhafran](https://www.linkedin.com/in/adam-zhafran-65a870315?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://linkedin.com/in/adamzhafran">
     <img src="https://img.shields.io/badge/LinkedIn-Adam%20Zhafran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
