@@ -71,7 +71,7 @@ const developer = {
 ### 🏛️ LaporWarga — _Civic Engagement & Response System_
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-In--Progress-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Laravel%20%7C%20React%20%7C%20Tailwind-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-purple?style=for-the-badge" />
 </p>
